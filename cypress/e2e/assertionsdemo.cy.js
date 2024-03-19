@@ -15,7 +15,7 @@ it('Assertions Demo', () => {
 
     // assert.equal(4,5,'NOT EQUAL')
     assert.equal(4,'4','NOT EQUAL')
-    // assert.strictEqual(4,'4','NOT EQUAL')
+    //  assert.strictEqual(4,'4','NOT EQUAL')
 
     
     
