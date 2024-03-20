@@ -7,14 +7,18 @@
     "pretest": "echo I am pretest",
     "posttest": "echo I am posttest",
     "test": "echo I am the test",
-    "hello":"echo Hello World",
-    "cy-test":"cypress run"
+    "hello": "echo Hello World",
+    "cy-test": "cypress run"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cypress": "^13.7.0",
+    "cypress-downloadfile": "^1.2.3",
     "npm": "^10.5.0"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8"
   }
 }

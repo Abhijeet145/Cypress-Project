@@ -1,0 +1,2 @@
+Hello, I am testing some write file demo using writefile function
+Now trying to add multiple lines in same file
